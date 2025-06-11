@@ -1,2 +1,3 @@
 # DatabasePeoject
 NUAA数据库实验课程设计
+通过MySQL8.0及VSCODE进行编程实现教务系统
